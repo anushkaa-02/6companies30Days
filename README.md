@@ -4,7 +4,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 - ## Company Name : Goldman Sachs [Day:1-5]
-  - [Print Anagrams Together](GoldmanSachs)
+  - Print Anagrams Together
   - Overlapping Rectangles
   - Count the subarrays
   - Run Length Encoding
