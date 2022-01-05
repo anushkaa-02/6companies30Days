@@ -20,5 +20,10 @@
   - Minimum Size Subarray Sum
   - Array Pair Sum Divisibility 
 
+---
+- ## Company Name : Amazon [Day:6-10]
+  - Calculating Maximum Profit
+  - Longest Mountain
+  - IPL 2021 - Match Day 2
 
 
