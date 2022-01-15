@@ -25,5 +25,15 @@
   - Calculating Maximum Profit
   - Longest Mountain
   - IPL 2021 - Match Day 2
-
-
+  - Brackets in Matrix Chain Multiplication 
+  - Phone directory
+  - Maximum of all subarrays of size k
+  - First non-repeating character in a stream
+  - Count ways to N'th Stair
+  - Which among them forms a perfect Sudoku Pattern
+  - Nuts and Bolts Problem
+  - Tree Serialization and Deserialization
+  - Column name from a given column number
+  - Rotten Oranges
+  - Tree Burning 
+  - Delete N nodes after M nodes of a linked list
