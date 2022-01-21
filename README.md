@@ -44,3 +44,20 @@
 - ## Company Name : Microsoft [Day:10-15]
   - [Minimum Sum Partition](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/Min_sum_partition.cpp)
   - [Prerequisite Tasks](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/Prerequisite_tasks.cpp)
+  - [Rotate by 90 degree](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/rotate_90.cpp)
+  - [Traverse the matrix](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/spirally_traverse_matrix.cpp)
+  - [Stock span problem](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/stock_span.cpp)
+  - [Possible Words From Phone Digits](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/possible_words_frm_phn_digits.cpp)
+  - [Unit Area of largest region](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/unit_area_largest_region.cpp)
+  - [Connect Nodes](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/connect_nodes.cpp)
+  - [Count Number of SubTrees having given Sum](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/count_subtrees.cpp)
+  - [Stickler Thief](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/Stickler_thief.cpp)
+  - [Print all binary numbers](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/binary_numbers.cpp)
+  - [Unique quadruple](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/unique_quadruple.cpp)
+  - [Bridge edge in a graph](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/bridge_edges_graph.cpp)
+  - [Minimum number of steps](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/min_steps.cpp)
+  - [Alien language](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/alien_dictionary.cpp)
+
+---
+
+- ## Company Name : Adobe [Day:15-20]
