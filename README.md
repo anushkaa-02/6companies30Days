@@ -61,3 +61,18 @@
 ---
 
 - ## Company Name : Adobe [Day:15-20]
+  - [Subarray with given sum](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/Subarray_with_given_sum.cpp)
+  - [Longest Arithmetic Progression](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/LLAP.cpp)
+  - [Number of distinct Words with k maximum contiguous vowels](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/Distinctwords.cpp)
+  - [Partition Equal Subset Sum](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/partitionequal_subset_sum.cpp)
+  - [Sum of power of natural number](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/sum_of_power_of_natural_num.cpp)
+  - [Well-formed(balanced) parentheses](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/generate_parenthesis.cpp)
+  - [Pots of Gold Game](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/pots_of_gold_game.cpp)
+  - [ATOI](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/ATOI.cpp)
+  - [Smallest palindromic number greater than N ](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/higher_palindrome_number.cpp)
+  - [Elections](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/Elections.cpp)
+  - [String Amendment](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/String%20Amendment.cpp)
+  - [Leaders in Array](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/leaders_in_array.cpp)
+  - [Minimum operations to convert array A to B](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/min_operations.cpp)
+  - [Smallest range in K lists](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/smallest_range.cpp)
+  - [Recent version](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/recent_version.cpp)
