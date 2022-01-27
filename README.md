@@ -41,7 +41,7 @@
 
 ---
 
-- ## Company Name : Microsoft [Day:10-15]
+- ## Company Name : Microsoft [Day:11-15]
   - [Minimum Sum Partition](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/Min_sum_partition.cpp)
   - [Prerequisite Tasks](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/Prerequisite_tasks.cpp)
   - [Rotate by 90 degree](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Microsoft/rotate_90.cpp)
@@ -60,7 +60,7 @@
 
 ---
 
-- ## Company Name : Adobe [Day:15-20]
+- ## Company Name : Adobe [Day:16-20]
   - [Subarray with given sum](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/Subarray_with_given_sum.cpp)
   - [Longest Arithmetic Progression](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/LLAP.cpp)
   - [Number of distinct Words with k maximum contiguous vowels](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/Distinctwords.cpp)
@@ -76,3 +76,23 @@
   - [Minimum operations to convert array A to B](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/min_operations.cpp)
   - [Smallest range in K lists](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/smallest_range.cpp)
   - [Recent version](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Adobe/recent_version.cpp)
+
+
+---
+
+- ## Company Name : Intuit [Day:21-25]
+  - [Partition a set into two subsets](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/Set_partition.cpp)
+  - [Word search](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/word_search.cpp)
+  - [Find the missing no in string](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/Missing_no_in_string.cpp)
+  - [Largest number in K swaps](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/largestnum_k_swaps.cpp)
+  - [Split Array Largest Sum](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/split_array.cpp)
+  - [Find in Mountain Array](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/find_in_mountain_array.cpp)
+  - [Capacity To Ship Packages Within D Days](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/ship_packages.cpp)
+  - [Number of Boomerangs](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/no_of_boomerang.cpp)
+  - [Pacific Atlantic Water Flow](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/pacifice_atlantic_waterflow.cpp)
+  - [Number of Provinces](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/no_of_provinces.cpp)
+  - [Construct Quad Tree](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/quad_tree.cpp)
+  - [Course Schedule](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/course_schedule.cpp)
+  - [Minimum Swaps to Arrange a Binary Grid](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/minimum_swaps.cpp)
+  - [As Far from Land as Possible](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/asfarpossible.cpp)
+  - [Koko Eating Bananas](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/koko_eating_banana.cpp)
