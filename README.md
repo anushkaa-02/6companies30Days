@@ -96,3 +96,22 @@
   - [Minimum Swaps to Arrange a Binary Grid](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/minimum_swaps.cpp)
   - [As Far from Land as Possible](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/asfarpossible.cpp)
   - [Koko Eating Bananas](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Intuit/koko_eating_banana.cpp)
+
+---
+
+- ## Comapany Name : Walmart [Day:26-30]
+  - [Path with Maximum Probability](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/path_max_prob.cpp)
+  - [Stone Game](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/stonegame.cpp)
+  - [Remove colored pieces](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/removed_color.cpp)
+  - [Number of unique paths](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/no_of_unique_paths.cpp)
+  - Transform to sum tree
+  - Power of numbers
+  - Sorted subsequence of size
+  - Maximum height tree
+  - Guess number higher or lower
+  - Generate random point in a circle
+  - Maximum Performance of a Team
+  - Find array given subset sums
+  - Find the Kth Largest Integer in the Array
+  - Largest number in k swaps
+  - Divide two integers
