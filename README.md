@@ -1,6 +1,44 @@
 ## <h1 align="center">6Companies30Days Challenge</h1>
 
-### This is a 30 days of programming challenge, conducted by [Arsh Goyal](https://bit.ly/arshgoyalyt). 
+### <h3 align="center"> This is a 30 days of programming challenge, conducted by [Arsh Goyal](https://bit.ly/arshgoyalyt)</h3> 
+
+## <h1 align="left">Problems set : ![gfg](https://user-images.githubusercontent.com/87390353/151700772-2cd86305-71c2-4467-86c5-7e79164e7c81.svg) + ![lc](https://user-images.githubusercontent.com/87390353/151700886-72761ff4-face-4edc-a84d-fbb3aa029b4a.svg)</h1>
+<details>
+<summary style="font-size: 1.2em">Goldman Sachs</summary>
+
+[Questions](https://docs.google.com/document/d/1gArkit3S_KXNfl01XSE0HLqpLR2gbh2mJ8ftsxKVd24/edit)
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Amazon</summary>
+
+[Questions](https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit)
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Microsoft</summary>
+
+[Questions](https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit)
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Adobe</summary>
+
+[Questions](https://docs.google.com/document/d/1cEAe63fC3YMJRwKmCoVOIXFUaFv5LqNXedxaGpaqd6U/edit)
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Intuit</summary>
+
+[Questions](https://docs.google.com/document/d/18oi6OlvcL3wYn20Jb9crW7NO4cGkL6vUfTvplNDGkTw/edit)
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Walmart</summary>
+
+[Questions](https://docs.google.com/document/d/1XsyXdufDAK1C6PbC0KNeO95ydbH8qlsGnkyThkS-1bs/edit)
+</details>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 - ## Company Name : Goldman Sachs [Day:1-5]
