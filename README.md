@@ -106,12 +106,12 @@
   - [Number of unique paths](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/no_of_unique_paths.cpp)
   - [Transform to sum tree](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/transform_sum_tree.cpp)
   - [Power of numbers](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/power_of_num.cpp)
-  - Sorted subsequence of size
-  - Maximum height tree
-  - Guess number higher or lower
-  - Generate random point in a circle
-  - Maximum Performance of a Team
-  - Find array given subset sums
-  - Find the Kth Largest Integer in the Array
-  - Largest number in k swaps
-  - Divide two integers
+  - [Sorted subsequence of size](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/sorted_subseq.cpp)
+  - [Maximum height tree](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/max_height_tree.cpp)
+  - [Guess number higher or lower](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/guess_number_high_low.cpp)
+  - [Generate random point in a circle](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/generate_randompoints.cpp)
+  - [Maximum Performance of a Team](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/max_performance.cpp)
+  - [Find array given subset sums](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/find_array_given_subset.cpp)
+  - [Find the Kth Largest Integer in the Array](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/kth_largest_ele.cpp)
+  - [Largest number in k swaps](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/largest_num_inKswaps.cpp)
+  - [Divide two integers](https://github.com/pilipi-puu-puu/6companies30Days/blob/main/Walmart/divide_two_int.cpp)
